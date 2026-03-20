@@ -1,2 +1,3 @@
-# rapid-fitness-tracker-xx7n
-Automated issue comment bot repository
+# Rapid Fitness Tracker Xx7N
+
+Automated issue comment bot repository.
